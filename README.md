@@ -1,4 +1,5 @@
 # lab-github-intro
+
 lab
 
-  CSCI 150
+CSCI 150
